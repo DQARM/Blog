@@ -1,4 +1,3 @@
-# RM Personal Training Schedule
 
 ---
 layout: default
