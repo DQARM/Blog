@@ -1,5 +1,9 @@
 # RM Personal Training Schedule
 
+---
+layout: default
+---
+
 <div class="mermaid">
 gantt
     title RM Personal Training Schedule (Compressed main view)
