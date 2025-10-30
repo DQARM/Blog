@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # RM Personal Training Schedule
 
 <div class="mermaid">
